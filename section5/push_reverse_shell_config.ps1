@@ -1,4 +1,3 @@
-# Match with your resource names
 $resourceGroup = 'IAAS'
 $vmName = 'fed01'
 $storageName = 'iiasdiag'
