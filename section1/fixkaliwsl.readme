@@ -1,0 +1,4 @@
+In case of a problem with KALI WSL, add these lines to the /etc/wsl.conf (note you will need to run your editor with sudo privileges, e.g: sudo nano /etc/wsl.conf):
+ 
+[boot]
+systemd=true
